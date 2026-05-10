@@ -4,9 +4,11 @@
 
 **Sr Full-Stack Developer** · 4 years on GitHub
 
-### → [Interactive 3D Tech Stack](https://shiccovo.github.io/Shiccovo/) ←
+<a href="https://shiccovo.github.io/Shiccovo/">
+  <img src="preview.gif" alt="Interactive 3D Tech Stack" width="820">
+</a>
 
-*Drag to rotate · Scroll to zoom · Hover nodes for tech names*
+#### Drag · scroll · hover &nbsp;→&nbsp; [Open interactive demo](https://shiccovo.github.io/Shiccovo/)
 
 </div>
 
