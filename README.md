@@ -1,19 +1,17 @@
-<a href="https://shiccovo.github.io/Shiccovo/">
-  <img src="hero.svg" alt="Shiccovo · Sr Full-Stack Developer · Backend 50.91% · Frontend 47.27% · Embedded 1.82%">
+<a href="https://anyura.com">
+  <img src="hero.svg" alt="Shiccovo · CTO @ Anyura · Full-stack engineer">
 </a>
 
-#### Backend
+## CTO @ Anyura
 
-`MongoDB`&nbsp; `Mongoose`&nbsp; `Express`&nbsp; `Fastify`&nbsp; `Next.js`&nbsp; `Redis`&nbsp; `Passport.js`&nbsp; `Socket.IO`&nbsp; `WebSocket`&nbsp; `SQL`&nbsp; `Microservices`&nbsp; `API Development`&nbsp; `RESTful`&nbsp; `Server Caching`&nbsp; `Auth`&nbsp; `Scaling`&nbsp; `Dotenv`
+I build full-stack products with a focus on practical engineering, clean user experience, and reliable backend systems.
 
-#### Frontend
+Currently working on **[Anyura](https://anyura.com)**, an AI-powered CRM/EHR platform for medical aesthetics clinics. My work spans product design, frontend development, backend architecture, infrastructure, and applied AI features.
 
-`React`&nbsp; `Next.js`&nbsp; `CSS Styling`&nbsp; `Axios`&nbsp; `WebSocket`&nbsp; `UI Development`&nbsp; `RESTful`
+I am especially interested in:
 
-#### Embedded
-
-`IoT Cloud Platforms`
-
----
-
-<sub>↗ <a href="https://shiccovo.github.io/Shiccovo/">Interactive 3D experiment</a> &nbsp;·&nbsp; Made with care.</sub>
+- Full-stack engineering
+- Healthcare software
+- AI-assisted workflows
+- Developer tools
+- Scalable product systems
