@@ -1,32 +1,19 @@
-<div align="center">
-
-# Shiccovo
-
-**Sr Full-Stack Developer** · 4 years on GitHub
-
 <a href="https://shiccovo.github.io/Shiccovo/">
-  <img src="preview.gif" alt="Interactive 3D Tech Stack" width="820">
+  <img src="hero.svg" alt="Shiccovo · Sr Full-Stack Developer · Backend 50.91% · Frontend 47.27% · Embedded 1.82%">
 </a>
 
-#### Drag · scroll · hover &nbsp;→&nbsp; [Open interactive demo](https://shiccovo.github.io/Shiccovo/)
+#### Backend
 
-</div>
+`MongoDB`&nbsp; `Mongoose`&nbsp; `Express`&nbsp; `Fastify`&nbsp; `Next.js`&nbsp; `Redis`&nbsp; `Passport.js`&nbsp; `Socket.IO`&nbsp; `WebSocket`&nbsp; `SQL`&nbsp; `Microservices`&nbsp; `API Development`&nbsp; `RESTful`&nbsp; `Server Caching`&nbsp; `Auth`&nbsp; `Scaling`&nbsp; `Dotenv`
 
----
+#### Frontend
 
-#### Backend &nbsp;·&nbsp; 50.91%
+`React`&nbsp; `Next.js`&nbsp; `CSS Styling`&nbsp; `Axios`&nbsp; `WebSocket`&nbsp; `UI Development`&nbsp; `RESTful`
 
-`MongoDB` `Mongoose` `Express` `Fastify` `Next.js` `Redis` `Passport.js` `Socket.IO` `WebSocket` `SQL` `Microservices` `API Development` `RESTful` `Server Caching` `Auth` `Scaling` `Dotenv`
-
-#### Frontend &nbsp;·&nbsp; 47.27%
-
-`React` `Next.js` `CSS Styling` `Axios` `WebSocket` `UI Development` `RESTful`
-
-#### Embedded &nbsp;·&nbsp; 1.82%
+#### Embedded
 
 `IoT Cloud Platforms`
 
 ---
 
-<sub>Built with Three.js — no external runtime, single-file HTML, ~25 KB minified.</sub>
-
+<sub>↗ <a href="https://shiccovo.github.io/Shiccovo/">Interactive 3D experiment</a> &nbsp;·&nbsp; Made with care.</sub>

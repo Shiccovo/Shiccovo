@@ -5,3 +5,4 @@ node_modules/
 _capture/
 package.json
 package-lock.json
+capture.mjs
