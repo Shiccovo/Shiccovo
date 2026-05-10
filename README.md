@@ -2,7 +2,7 @@
   <img src="hero.svg" alt="Shiccovo · CTO @ Anyura · Full-stack engineer">
 </a>
 
-## CTO @ Anyura
+## CTO @ [Anyura](https://anyura.com)
 
 I build full-stack products with a focus on practical engineering, clean user experience, and reliable backend systems.
 

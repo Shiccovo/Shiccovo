@@ -58,9 +58,6 @@
   <!-- italic tagline -->
   <text x="200" y="184" class="serif" font-size="17" font-style="italic" fill="#c9d1d9">Full-stack engineer.</text>
 
-  <!-- byline -->
-  <text x="200" y="214" class="mono" font-size="11" fill="#6e7681" letter-spacing="0.08em">@Shiccovo &#8226; 4 years on GitHub</text>
-
   <!-- ===== RIGHT BLOCK · COMPANY FEATURE ===== -->
 
   <!-- small caps tag -->
